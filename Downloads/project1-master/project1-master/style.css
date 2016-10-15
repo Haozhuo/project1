@@ -1,9 +1,12 @@
 .pageTitle{
 	text-align: center;
-	font-size: 48px;
+	font-size: 84px;
+	font-family: "Ostrich Sans Inline";
+	color: rgb(80, 80, 240);
 }
 .caption{
 	text-align: center;
+	font-family: "Apple Garamond Light Italic";
 
 }
 .coverPicture{
@@ -14,7 +17,13 @@
 }
 .subtitle{
 	text-align: center;
+	font-size: 36px;
+	font-family: "Ostrich Sans Black";
+	color: rgb(120, 120, 240);
 }
+
 .description{
 	text-align: center;
+	font-family: "Specify PERSONAL", Monospace;
+	font-size: 18px;
 }
