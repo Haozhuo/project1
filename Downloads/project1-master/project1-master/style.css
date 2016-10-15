@@ -1,0 +1,20 @@
+.pageTitle{
+	text-align: center;
+	font-size: 48px;
+}
+.caption{
+	text-align: center;
+
+}
+.coverPicture{
+	display: block;
+	margin: auto;
+	height: 50%;
+	width: 50%;
+}
+.subtitle{
+	text-align: center;
+}
+.description{
+	text-align: center;
+}
