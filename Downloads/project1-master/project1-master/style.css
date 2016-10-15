@@ -1,29 +1,48 @@
-.pageTitle{
-	text-align: center;
-	font-size: 84px;
-	font-family: "Ostrich Sans Inline";
-	color: rgb(80, 80, 240);
+html body { 
+  background: url(img/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-.caption{
-	text-align: center;
-	font-family: "Apple Garamond Light Italic";
 
+.picture img {
+	height:200px;
+	width: 300px;
+	margin-top: 30px;
 }
-.coverPicture{
-	display: block;
-	margin: auto;
-	height: 50%;
-	width: 50%;
+
+.form-group {
+	width:300px;
 }
+
 .subtitle{
 	text-align: center;
-	font-size: 36px;
-	font-family: "Ostrich Sans Black";
-	color: rgb(120, 120, 240);
+	font-size: 20px;
+	font-family: "Ostrich Sans Black", Helvetica;
+	color: white;
 }
 
-.description{
+h1 {
 	text-align: center;
-	font-family: "Specify PERSONAL", Monospace;
-	font-size: 18px;
+	font-size: 84px;
+	font-family: "Ostrich Sans Inline", Helvetica;
+	color: white;
 }
+
+.navigation {
+	text-align: center;
+}
+
+.signup {
+	margin-top: 40px;
+	margin-left: 50px;
+	font-size:25px;
+	color:	#f2a400;
+}
+
+.contact {
+	font-size:20px;
+	font-weight: bold;
+}
+
